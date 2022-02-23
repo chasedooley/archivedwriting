@@ -1,0 +1,55 @@
+date: 2021-04-24
+
+# 6:57 AM
+
+I am going to sacrifice my life to this aim: to make living itself an art.
+
+- Reading chapter 4 and chapter 5 from *Beyond Order* by Jordan Peterson. So far, it's good!
+- Listening to *Dancin' - Krono Remix* by Aaron Smith, Luvil, and Krono.
+- Thinking about my studies, comparing programs, and my writing (today is one week from the launch of my essays!).
+
+## tasks
+
+1. Substack about me
+2. Writing: 1st idea, outline, and research
+3. Reading notes for *Original* by Adam Grant
+4. Journal content; find some, submit some
+5. Outline my future; projects, due dates, etc. What am I working towards, right now? And after that? (Journal)
+6. COVID vaccinations <- look those up, schedule
+7. Confirm with family on my flights
+8. Compare my "Integrated Science Program" to the Mathematical Biology program
+
+
+## schedule
+
+- 0700 Plan the day X
+- 0710 Substack about me X
+- 0800 Revise Substack about me X Progress is being made, but not as expected; this will take time.
+- 0830 Writing: outline my first idea and dates X
+- 0900 Breakfast; vaccines, flights
+- 1000 Writing: research from notes
+- 1100 Reading notes
+- 1200 Lunch
+- 1300 Journal content
+- 1330 Outline the future
+- 1400 Compare programs
+
+---
+- 0900 Breakfast; made Korean Street Toast, which was amazing.
+- 1100 Reading notes
+- 1200 Lunch
+- 1300 Journal content
+- 1330 Outline the future
+- 1400 Compare programs
+
+## other tasks
+
+- 
+
+## thoughts and notes
+
+- Consider that I am trying to do too much in my days, again. Perhaps I should use a method for selecting my tasks (1, 3, 5 method or top 3?).
+- Biophysics, now that's interesting.
+- "Critics Report," a weekly digest of the best criticism for my essays, submitted by my subscribers.
+- Write a program that takes a list of courses and computes the best schedule of them, given certain limitations (prerequisites, corequisites, credit limits). It would probably have to work backwards with the highest level courses in the later semesters, and down from there until that sequence is completed. After all of those sequences are done, it could fill in remaining courses around any open space (if such course is available then).
+- Jordan Peterson: You go to university to learn how to write. If you can write, you can think, and if you can think and speak and communicate in writing, you are unbelieveable powerful in the "authority manner." Arguments rule the world; five rationales for your argument. If you can argue, you're a force of nature.
